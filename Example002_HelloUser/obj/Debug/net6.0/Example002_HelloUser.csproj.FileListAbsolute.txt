@@ -1,0 +1,15 @@
+F:\C#Lesson1\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.exe
+F:\C#Lesson1\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.deps.json
+F:\C#Lesson1\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.runtimeconfig.json
+F:\C#Lesson1\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.dll
+F:\C#Lesson1\Example002_HelloUser\bin\Debug\net6.0\ref\Example002_HelloUser.dll
+F:\C#Lesson1\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.pdb
+F:\C#Lesson1\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.AssemblyReference.cache
+F:\C#Lesson1\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#Lesson1\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfoInputs.cache
+F:\C#Lesson1\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfo.cs
+F:\C#Lesson1\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+F:\C#Lesson1\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.dll
+F:\C#Lesson1\Example002_HelloUser\obj\Debug\net6.0\ref\Example002_HelloUser.dll
+F:\C#Lesson1\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.pdb
+F:\C#Lesson1\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.genruntimeconfig.cache
